@@ -5,3 +5,6 @@
 
 google.*##.main .gTMtLb
 google.*##.fp-nh.gTMtLb
+google.*##html:style(position: static !important; overflow: auto !important; width: auto !important;)
+google.*##html.TaoyYc:style(overflow: auto !important; position: static !important;)
+google.*###before-appbar + #lb[style="visibility: visible;"]:has([role="dialog"] update-location)
