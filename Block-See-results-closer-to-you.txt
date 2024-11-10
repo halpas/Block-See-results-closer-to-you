@@ -1,0 +1,8 @@
+[Adblock Plus 2.6.8]
+! Homepage: https://blog.halpas.com/archives/17764
+! Title: Block Google "See results closer to you"
+! Version: 20241110
+
+google.*##.main .gTMtLb
+google.*##.fp-nh.gTMtLb
+google.*##html:style(position: static !important; overflow: auto !important; width: auto !important;
